@@ -1,0 +1,4 @@
+name = "v20250908"
+main = "nat64套壳版混淆.js"
+compatibility_date = "2025-09-08"
+keep_vars = true
